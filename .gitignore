@@ -1,3 +1,4 @@
 .env
 
 llm-universe/
+__pycache__/
